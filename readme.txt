@@ -1,9 +1,3 @@
-First commit 
-Second commit
-Third commit
-Sinh viên chỉ nộp 2 tập tin: SymbolTable.h và SymbolTable.cpp, trước thời hạn được đưa ra trong đường dẫn "Assignment 1 - Submission". Có một số testcase đơn giản được sử dụng để kiểm tra bài làm của sinh viên nhằm đảm bảo rằng kết quả của sinh viên có thể biên dịch và chạy được. Sinh viên có thể nộp bài bao nhiêu lần tùy ý nhưng chỉ có bài nộp cuối cùng được tính điểm. Vì hệ thống không thể chịu tải khi quá nhiều sinh viên nộp bài cùng một lúc, vì vậy sinh viên nên nộp bài càng sớm càng tốt. Sinh viên sẽ tự chịu rủi ro nếu nộp bài sát hạn chót hoặc bài làm của mình chưa thể biên dịch được. Khi quá thời hạn nộp bài, hệ thống sẽ đóng nên sinh viên sẽ không thể nộp nữa. Bài nộp qua các phương thức khác đều không được chấp nhận.
-
-Lưu ý: Sinh viên không được sử dụng các thư viện: array, dequeue, forward_list, list, map, queue, set, stack, unordered_map, unordered_set và vector.
-Students are required to submit only 2 files: SymbolTable.h and SymbolTable.cpp prior to the given deadline in the link ”Assignment 1 - Submission”. There are some simple testcases used to check students’ work to ensure that their results are compilable and runnable. Students can submit as many times as they want, but only the final submission will be graded. Because the system cannot bear the load when too many students submit their work at once, students should submit their work as soon as possible. Students will take all responsibility for their risk if they submit their work near the deadline or your submitted files cannot be compiled. When the submission deadline is over, the system will close so students will not be able to submit their work any more. Other methods for submission will not be accepted.
-
-Note: Students are not allowed to use these listed libraries: array, dequeue, forward_list, list, map, queue, set, stack, unordered_map, unordered_set and vector.
+Day 1 - 1 commit
+Day 2 - 1 commit
+Day 3 - 3 commits
