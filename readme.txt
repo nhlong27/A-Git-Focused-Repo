@@ -5,3 +5,4 @@ Day 4 - 2  commits
 Day 5 - 1 commit
 Day 6 - 1 commit
 Day 7 - 1 commit
+Day 8 - 1 commit
